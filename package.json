@@ -1,0 +1,21 @@
+{
+    "name": "whatsapp-bot-builderbot",
+    "version": "1.0.0",
+    "description": "Bot de WhatsApp con BuilderBot usando Bailey provider",
+    "main": "dist/app.js",
+    "scripts": {
+      "dev": "tsx watch src/app.ts",
+      "build": "tsc",
+      "start": "node dist/app.js"
+    },
+    "dependencies": {
+      "@builderbot/bot": "^1.2.5",
+      "@builderbot/provider-baileys": "^1.2.5",
+      "dotenv": "^16.3.1"
+    },
+    "devDependencies": {
+      "@types/node": "^20.0.0",
+      "tsx": "^4.0.0",
+      "typescript": "^5.0.0"
+    }
+  }
