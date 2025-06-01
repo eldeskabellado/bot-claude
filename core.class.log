@@ -1,0 +1,233 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584148417041@s.whatsapp.net',
+    fromMe: false,
+    id: '3A667F899266F98311AA',
+    participant: undefined
+  },
+  messageTimestamp: 1748748841,
+  pushName: 'Deskabellado',
+  broadcast: false,
+  message: Message {
+    conversation: 'Prueba',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Prueba',
+  name: 'Deskabellado',
+  from: '584148417041',
+  host: '584128696261'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e7e0eeb3-61e3-4a83-b5d5-e8ebadbcb71c',
+  keyword: 'key_d537ac22-b9d1-4b0e-8cfa-f6cd45f357bf',
+  answer: '🎉 ¡Bienvenido a nuestro bot de WhatsApp!',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bf46a716177a02b1d10713acd850a4b7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_21b918ae-0c85-4966-97d1-6cadf7b6eb95',
+  keyword: 'ans_e7e0eeb3-61e3-4a83-b5d5-e8ebadbcb71c',
+  answer: '¿En qué puedo ayudarte?\n' +
+    '\n' +
+    '📋 Escribe *menu* para ver opciones\n' +
+    '📞 Escribe *contacto* para información',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4e1564c4c8714585b9867c4a4e1e10f6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a483ffb4-c929-48f2-af78-5a41f4543950',
+  keyword: 'ans_21b918ae-0c85-4966-97d1-6cadf7b6eb95',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '76fc2d348af1a79e72ede47ec9484f7b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584148417041@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB576BA586167821A17',
+    participant: undefined
+  },
+  messageTimestamp: 1748748848,
+  pushName: 'Deskabellado',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menú',
+  name: 'Deskabellado',
+  from: '584148417041',
+  host: '584128696261'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e7e0eeb3-61e3-4a83-b5d5-e8ebadbcb71c',
+  keyword: 'key_d537ac22-b9d1-4b0e-8cfa-f6cd45f357bf',
+  answer: '🎉 ¡Bienvenido a nuestro bot de WhatsApp!',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bf46a716177a02b1d10713acd850a4b7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_21b918ae-0c85-4966-97d1-6cadf7b6eb95',
+  keyword: 'ans_e7e0eeb3-61e3-4a83-b5d5-e8ebadbcb71c',
+  answer: '¿En qué puedo ayudarte?\n' +
+    '\n' +
+    '📋 Escribe *menu* para ver opciones\n' +
+    '📞 Escribe *contacto* para información',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4e1564c4c8714585b9867c4a4e1e10f6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a483ffb4-c929-48f2-af78-5a41f4543950',
+  keyword: 'ans_21b918ae-0c85-4966-97d1-6cadf7b6eb95',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '76fc2d348af1a79e72ede47ec9484f7b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584148417041@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACE9E5EC28B56DCD8E8',
+    participant: undefined
+  },
+  messageTimestamp: 1748748856,
+  pushName: 'Deskabellado',
+  broadcast: false,
+  message: Message {
+    conversation: 'Contacto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Contacto',
+  name: 'Deskabellado',
+  from: '584148417041',
+  host: '584128696261'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ecc198ff-617f-4dac-b6a7-f99e4bb9324b',
+  keyword: 'key_ed780273-5991-4737-805b-09935ba5939e',
+  answer: '📞 *INFORMACIÓN DE CONTACTO*',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6d2a574ab9108fb94ad935c87bc09e1f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_51eee563-9d7d-4e04-82bc-d050303f2f82',
+  keyword: 'ans_ecc198ff-617f-4dac-b6a7-f99e4bb9324b',
+  answer: '🏢 **Mi Empresa**\n' +
+    '📧 Email: contacto@miempresa.com\n' +
+    '📱 Teléfono: +1234567890\n' +
+    '📍 Dirección: Calle Principal 123\n' +
+    '\n' +
+    '🕒 Lunes a Viernes: 9:00 AM - 6:00 PM',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4d32f1e0b48d9a55ac768f14e7733645'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a3ca2a57-0eb0-458e-bdf7-c61a1c44791a',
+  keyword: 'ans_51eee563-9d7d-4e04-82bc-d050303f2f82',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b09e5633828b8d5b298de7d1cfc49b0f'
+}
